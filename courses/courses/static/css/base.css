@@ -1,0 +1,17 @@
+* {
+    background: linear-gradient(8deg, #464d8a73 0%, #a5e2f1cc 100%);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+h1 {
+    color: rgb(141, 29, 175);
+    text-align: center;
+    font-family: 'Times New Roman', serif;
+    font-size: 60px;
+    font-style: normal;
+    margin: 0%;
+}

@@ -9,7 +9,14 @@ It is platform where you can find courses about Tabletop games.
 - Docker
 - Postgres
 
-## Usage
+## Setup
+```
+git clone https://github.com/Molson-uc/eLearning-platform.git
+docker compose up
+go to http://0.0.0.0:8000/
+```
+
+
 1. Listing available containers 'docker ps'
 2. To entry container 'docker exect -it {id} bash'
 3. To rebuild container 'docker-compose build {id}'

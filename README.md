@@ -1,4 +1,8 @@
-# Elearning platform
+# E-learning platform
+## Introduction
+Goal of this project is to improve mu django skills.
+It is platform where you can find courses about Tabletop games.
+
 
 1. Listing available containers 'docker ps'
 2. To entry container 'docker exect -it {id} bash'
